@@ -4,6 +4,7 @@
 
 - 主要实现语言：Java、pure-C.
 
+- 新手学习，多多指教.
 ​
 
 ### LeetCode Problems I have Soved
