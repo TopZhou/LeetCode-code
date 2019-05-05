@@ -10,5 +10,5 @@
 ### LeetCode Problems I have Soved
 
 - 141 [Java](./code/141环形链表.java)
-
-​
+- 21  [Java](./code/21合并两个有序链表.java)
+- 206 [Java](./code/206反转链表.java)
